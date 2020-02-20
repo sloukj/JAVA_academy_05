@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8fb0e1-99ff-40ef-81cc-90bcae1de467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Engeto/ShortCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Engeto/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Engeto/ValueVersusReference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Engeto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Engeto/ShortCircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/ShortCircuit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +30,15 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ShortCircuit">
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Engeto_academy_lekce_04" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Engeto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ValueVersusReference">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Engeto.Main" />
       <module name="JAVA_academy_05" />
@@ -51,12 +62,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValueVersusReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Engeto.ValueVersusReference" />
+      <module name="JAVA_academy_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ShortCircuit" />
+      <item itemvalue="Application.ValueVersusReference" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValueVersusReference" />
         <item itemvalue="Application.ShortCircuit" />
         <item itemvalue="Application.Main" />
       </list>
@@ -80,22 +106,26 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="93" y="93" width="1288" height="678" key="DiffContextDialog/0.0.1474.864@0.0.1474.864" timestamp="1582222369775" />
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1582224752896">
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1582226841142">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1582224752896" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1582224752896">
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1582226841142" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1582227555792">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1582224752896" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1582224752896">
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1582227555792" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1582227555791">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1582224752896" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1582224752896">
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1582227555791" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1582227555791">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1582224752896" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1582227555791" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1582227555792">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1582227555792" />
     <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582220129498">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
