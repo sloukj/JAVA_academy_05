@@ -1,8 +1,5 @@
 package com.Engeto;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class ValueVersusReference {
 
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
 package com.Engeto;
 import java.util.Scanner; // načítání vstupu z klávesnice pomocí konzole
-import java.util.ArrayList;
 
 public class Main {
 
