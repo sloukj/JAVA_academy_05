@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8fb0e1-99ff-40ef-81cc-90bcae1de467" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/Engeto/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/ArrayListClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Engeto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Engeto/ValueVersusReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/ValueVersusReference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
