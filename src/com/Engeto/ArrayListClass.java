@@ -15,6 +15,6 @@ public class ArrayListClass {
             list.add(inputValue);
         }
         System.out.println();
-        list.get(1) + list.get(2);
+        System.out.println(list.get(1) + list.get(2));
     }
 }

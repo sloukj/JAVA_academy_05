@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8fb0e1-99ff-40ef-81cc-90bcae1de467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Engeto/Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Engeto/ValueVersusReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/ValueVersusReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Engeto/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Engeto/ArrayListClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,20 @@
       <recent name="com.Engeto" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueVersusReference">
+  <component name="RunManager" selected="Application.ArrayListClass">
+    <configuration name="ArrayListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Engeto.ArrayListClass" />
+      <module name="JAVA_academy_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Engeto.Main" />
       <module name="JAVA_academy_05" />
@@ -77,9 +88,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ShortCircuit" />
       <item itemvalue="Application.ValueVersusReference" />
+      <item itemvalue="Application.ArrayListClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListClass" />
         <item itemvalue="Application.ValueVersusReference" />
         <item itemvalue="Application.ShortCircuit" />
         <item itemvalue="Application.Main" />
@@ -108,21 +121,25 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1582226841142" />
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1582229019806">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state width="1943" height="318" key="GridCell.Tab.0.bottom" timestamp="1582269748491">
+      <screen x="0" y="0" width="1986" height="1152" />
     </state>
+    <state width="1943" height="318" key="GridCell.Tab.0.bottom/-1920.358.1474.864/0.0.1986.1152@0.0.1986.1152" timestamp="1582269748491" />
     <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1582229019806" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1582229019806">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state width="1943" height="318" key="GridCell.Tab.0.center" timestamp="1582269748491">
+      <screen x="0" y="0" width="1986" height="1152" />
     </state>
+    <state width="1943" height="318" key="GridCell.Tab.0.center/-1920.358.1474.864/0.0.1986.1152@0.0.1986.1152" timestamp="1582269748491" />
     <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1582229019806" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1582229019806">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state width="1943" height="318" key="GridCell.Tab.0.left" timestamp="1582269748491">
+      <screen x="0" y="0" width="1986" height="1152" />
     </state>
+    <state width="1943" height="318" key="GridCell.Tab.0.left/-1920.358.1474.864/0.0.1986.1152@0.0.1986.1152" timestamp="1582269748491" />
     <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1582229019806" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1582229019806">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state width="1943" height="318" key="GridCell.Tab.0.right" timestamp="1582269748491">
+      <screen x="0" y="0" width="1986" height="1152" />
     </state>
+    <state width="1943" height="318" key="GridCell.Tab.0.right/-1920.358.1474.864/0.0.1986.1152@0.0.1986.1152" timestamp="1582269748491" />
     <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1582229019806" />
     <state x="585" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1582269418752">
       <screen x="0" y="0" width="1986" height="1152" />
